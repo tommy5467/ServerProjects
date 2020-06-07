@@ -34,7 +34,7 @@
 - [新冠肺炎可视化数据 1-5](https://www.youtube.com/watch?v=sz1bGzYdRdk)
 - [新冠肺炎可视化数据 1-6](https://www.youtube.com/watch?v=x_wZQ8fVIwQ)
 - [新冠肺炎可视化数据 1-7](https://youtu.be/LnQcbAKWkPE)
-- **[新冠肺炎可视化数据 1-8](https://www.youtube.com/watch?v=b1hRKhHhOF4)**
+- [新冠肺炎可视化数据 1-8](https://www.youtube.com/watch?v=b1hRKhHhOF4)
 - 
 - [新冠肺炎可视化数据 2-1](https://youtu.be/z6pBq3oXe5M)
 - [新冠肺炎可视化数据 2-2](https://youtu.be/IZWPpKdlonA)
@@ -46,15 +46,15 @@
 - [新冠肺炎全球数据实时直播(现存病例)](https://www.youtube.com/watch?v=orT4nVeryTc)
 - 以上链接发布在 **油管** 上，最新数据已更改为 **直播形式** ，可以订阅原作者频道跟踪。
 -
-- [TG：2019-nCoV 相关资讯实时播报](https://t.me/nCoV2019)
+- [TG：COVID-19 Pandemic - Breaking](https://t.me/COVID19Up)
 - [TG：新冠病毒(COVID-19)最新疫情推送](https://t.me/CoronavirusNews)
+- [⚠️ COVID-19 - Highlights ⚠️](https://t.me/coronavirusinfo)
 - [TG：我的频道（冬至日）](https://t.me/neva0theresia)
 - [TG：我的群组（冬至日）](https://t.me/neva0theresia_group)
 - 更多群组因不可抗力不能直接放到这里，请加入我的群组获取更多。
-- 我的服务器首页也有相同链接
 
 ---
 
 ## 其他
 
-发送敏感文件请使用**[我的公匙](https://neva0.icu)**进行加密
+发送敏感文件请使用**[我的公匙](https://neva0.icu/?p=11)**进行加密
