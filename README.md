@@ -14,7 +14,7 @@
 
 ---
 
-## 疫情相关(2020/06/01 更新)
+## 疫情相关(2020/06/07 更新)
 
 ### 下面我贴几个常用链接
 
@@ -42,8 +42,9 @@
 - [新冠肺炎可视化数据 2-4(美国起飞之路)](https://www.youtube.com/watch?v=GO4PG7xwSys)
 - [新冠肺炎可视化数据 1-8(美国起飞之路2)](https://www.youtube.com/watch?v=1rEO8iJB45A)
 - 
-- **[新冠肺炎全球数据实时直播](https://www.youtube.com/watch?v=NMre6IAAAiU)**
-- 以上链接发布在 **油管** 上，最新数据 **已更改为 _直播形式_**，可以订阅原作者频道跟踪。
+- [新冠肺炎全球数据实时直播(确诊病例)](https://www.youtube.com/watch?v=NMre6IAAAiU)
+- [新冠肺炎全球数据实时直播(现存病例)](https://www.youtube.com/watch?v=orT4nVeryTc)
+- 以上链接发布在 **油管** 上，最新数据已更改为 **直播形式** ，可以订阅原作者频道跟踪。
 -
 - [TG：2019-nCoV 相关资讯实时播报](https://t.me/nCoV2019)
 - [TG：新冠病毒(COVID-19)最新疫情推送](https://t.me/CoronavirusNews)
