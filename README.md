@@ -49,8 +49,8 @@
 - [TG：COVID-19 Pandemic - Breaking](https://t.me/COVID19Up)
 - [TG：新冠病毒(COVID-19)最新疫情推送](https://t.me/CoronavirusNews)
 - [⚠️ COVID-19 - Highlights ⚠️](https://t.me/coronavirusinfo)
-- [TG：我的频道（冬至日）](https://t.me/neva0theresia)
-- [TG：我的群组（冬至日）](https://t.me/neva0theresia_group)
+- [TG：我的频道（冬至日）](https://t.me/neva0_channel)
+- [TG：我的群组（冬至日）](https://t.me/neva0_group)
 - 更多群组因不可抗力不能直接放到这里，请加入我的群组获取更多。
 
 ---
@@ -58,3 +58,5 @@
 ## 其他
 
 发送敏感文件请使用**[我的公匙](https://neva0.icu/?p=11)**进行加密
+
+[我的博客](https://neva0.icu/)不定期更新
